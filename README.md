@@ -1,16 +1,19 @@
-## Hi there 👋
+ <!-- credits: remi -->
+![header](https://ibb.co/FbX81xH)
 
-<!--
-**iranism/iranism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">@iranism</h1>
+<div align="center">
+  <p>
+    <!-- credits: vast -->
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=iranism&countColor=%23000000" alt="Profile Views"/>
+      <img height="25" src="https://img.shields.io/github/followers/iranism?color=000000&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+    </div>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=iranism&title_color=000000&text_color=fffff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=000000&hide_title=true&count_private=false" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![footer](https://ibb.co/FbX81xH)
