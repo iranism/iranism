@@ -1,5 +1,5 @@
  <!-- credits: remi -->
-![header](https://i.ibb.co/DDYwFVr/313186825-6387114f-4948-44ad-bbd3-61a061a0a74d.png)
+![header](https://github.com/Devuxious/Devuxious/assets/17689226/6387114f-4948-44ad-bbd3-61a061a0a74d)
 
 <h1 align="center">@iranism</h1>
 <div align="center">
@@ -16,4 +16,4 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=iranism&title_color=000000&text_color=fffff&show_icons=true&bg_color=00000000&hide_border=true&icon_color=000000&hide_title=true&count_private=false" />
 </p>
 
-![footer](https://i.ibb.co/DDYwFVr/313186825-6387114f-4948-44ad-bbd3-61a061a0a74d.png)
+![footer](https://github.com/Devuxious/Devuxious/assets/17689226/378b7928-829e-467d-ac4e-631195ac72f7)
